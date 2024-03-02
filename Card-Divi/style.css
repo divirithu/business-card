@@ -1,0 +1,23 @@
+body{
+    font-family: "Roboto";
+    margin: 20px;
+}
+img{
+    width: 150px;
+}
+.card{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-around;
+    border-bottom: 5px solid hwb(277 69% 8%);
+}
+.card-words{
+
+    text-align: center;
+    font-family: sans-serif;
+}
